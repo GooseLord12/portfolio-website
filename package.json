@@ -1,24 +1,22 @@
 {
   "name": "react",
   "version": "1.0.0",
+  "homepage": "https://GooseLord12.github.io/newport",
   "description": "",
   "keywords": [],
-  "main": "src/index.tsx",
+  "main": "src/index.js",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "^5.0.0",
     "react-router-dom": "7.5.1",
+    "react-scripts": "^5.0.0",
     "framer-motion": "12.7.4",
     "tailwindcss": "4.1.4",
     "postcss": "8.5.3",
     "autoprefixer": "10.4.21"
   },
   "devDependencies": {
-    "@types/react": "19.0.0",
-    "@types/react-dom": "19.0.0",
-    "loader-utils": "3.2.1",
-    "typescript": "5.7.2"
+    "loader-utils": "3.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
